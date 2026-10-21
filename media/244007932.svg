@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In . SVG Version: 6.0.0 Build 78)  -->
+
+<svg  xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="199.425" height="86.039" viewBox="0 0 199.425 86.039" overflow="visible" enable-background="new 0 0 199.425 86.039"
+	 xml:space="preserve">
+	
+		<g id="Layer_1">
+			<g>
+				<polygon fill="none" stroke="#FFFFFF" stroke-miterlimit="3.8637" points="0.5,0.5 198.925,0.5 198.925,85.539 0.5,85.539 
+					0.5,0.5 "/>
+				<polygon fill="#FFFFFF" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="3.8637" points="125.254,37.911 
+					134.987,37.911 134.987,56.434 125.254,56.434 125.254,37.911 "/>
+				<polygon fill="#FFFFFF" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="3.8637" points="64.844,37.911 
+					74.578,37.911 74.578,56.434 64.844,56.434 64.844,37.911 "/>
+				<polyline fill="none" stroke="#000000" stroke-miterlimit="3.8637" points="71.636,33.29 126.658,33.29 126.672,28.557 
+					115.52,28.557 115.62,25.417 129.71,25.417 129.716,33.474 137.371,33.29 137.371,60.623 62.054,60.623 62.054,33.29 
+					68.993,33.474 68.952,25.417 83.042,25.417 83.142,28.557 71.99,28.557 72.03,33.474 "/>
+				<path d="M131.356,51.275h-1.056v-6.722c-0.255,0.242-0.588,0.484-1.001,0.726c-0.412,0.242-0.783,0.424-1.111,0.545v-1.019
+					c0.591-0.277,1.106-0.613,1.549-1.008c0.441-0.394,0.755-0.777,0.938-1.148h0.681V51.275L131.356,51.275z"/>
+				<path fill-rule="evenodd" clip-rule="evenodd" d="M70.491,51.275v-2.051h-3.732v-0.973l3.924-5.568h0.864v5.568h1.164v0.973
+					h-1.164v2.051H70.491L70.491,51.275z M70.491,48.252v-3.865l-2.694,3.865H70.491L70.491,48.252z"/>
+			</g>
+		</g>
+	</svg>

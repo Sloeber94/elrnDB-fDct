@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In . SVG Version: 6.0.0 Build 78)  -->
+
+<svg  xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="199.425" height="86.039" viewBox="0 0 199.425 86.039" overflow="visible" enable-background="new 0 0 199.425 86.039"
+	 xml:space="preserve">
+	
+		<g id="Layer_1">
+			<g>
+				<path fill="none" stroke="#000000" stroke-width="0.8504" d="M84.212,23.27h-9.25v43.5h49V23.02h-9.5v-4.833
+					c0,0,0.75-3.042-2.125-3.042s-25.875,0-25.875,0s-2.25-0.125-2.25,2.875S84.212,23.27,84.212,23.27L84.212,23.27z"/>
+				<polygon fill="none" stroke="#000000" stroke-width="0.5669" points="114.462,23.27 84.212,23.27 84.212,27.353 114.546,27.353 
+					114.462,23.27 "/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5669" points="79.046,23.52 79.046,35.52 120.379,35.52 120.379,23.186 
+					"/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5669" points="77.212,23.52 77.212,36.52 122.046,36.52 122.046,23.02 
+					"/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5669" points="85.046,35.353 85.046,33.353 114.379,33.353 
+					114.379,35.353 "/>
+				<line fill="none" stroke="#000000" stroke-width="0.5669" x1="93.546" y1="33.52" x2="93.546" y2="35.186"/>
+				<line fill="none" stroke="#000000" stroke-width="0.5669" x1="95.379" y1="33.52" x2="95.379" y2="35.186"/>
+				<line fill="none" stroke="#000000" stroke-width="0.5669" x1="103.879" y1="33.52" x2="103.879" y2="35.186"/>
+				<line fill="none" stroke="#000000" stroke-width="0.5669" x1="105.712" y1="33.52" x2="105.712" y2="35.186"/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5669" points="97.212,27.52 97.212,30.853 102.212,30.853 
+					102.212,27.02 "/>
+				<polygon fill="none" stroke="#000000" stroke-width="0.5669" points="93.712,52.353 93.712,38.186 85.212,38.186 85.212,52.353 
+					93.712,52.353 "/>
+				<polygon fill="none" stroke="#000000" stroke-width="0.5669" points="103.921,52.082 103.921,37.916 95.421,37.916 
+					95.421,52.082 103.921,52.082 "/>
+				<polygon fill="none" stroke="#000000" stroke-width="0.5669" points="114.462,52.082 114.462,37.916 105.962,37.916 
+					105.962,52.082 114.462,52.082 "/>
+				<line fill="none" stroke="#000000" stroke-width="1.1338" x1="113.379" y1="44.853" x2="128.212" y2="44.853"/>
+				<line fill="none" stroke="#000000" stroke-width="1.1338" x1="71.087" y1="44.853" x2="85.921" y2="44.853"/>
+				<g>
+					<text transform="matrix(1 0 0 1 130.7124 48.5195)"><tspan x="0" y="0" font-family="'Arial-Black'" font-size="12">1</tspan></text>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 63.2124 49.353)"><tspan x="0" y="0" font-family="'Arial-Black'" font-size="12">3</tspan></text>
+				</g>
+				<polygon fill="none" stroke="#FFFFFF" points="198.925,85.539 198.925,0.5 0.5,0.5 0.5,85.539 198.925,85.539 "/>
+			</g>
+		</g>
+	</svg>

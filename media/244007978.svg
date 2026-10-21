@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In . SVG Version: 6.0.0 Build 78)  -->
+
+<svg  xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="199.425" height="86.039" viewBox="0 0 199.425 86.039" overflow="visible" enable-background="new 0 0 199.425 86.039"
+	 xml:space="preserve">
+	
+		<g id="Layer_1">
+			<g>
+				<polygon fill="none" stroke="#FFFFFF" stroke-miterlimit="3.8637" points="0.5,0.5 198.925,0.5 198.925,85.539 0.5,85.539 
+					0.5,0.5 "/>
+				<path fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="3.8637" d="M97.514,31.542v-3.368h4.209v3.368
+					h3.884v13.287H93.256V31.542H97.514L97.514,31.542z M85.63,36.594c0-7.777,6.305-14.082,14.083-14.082
+					c7.777,0,14.082,6.305,14.082,14.082s-6.305,14.082-14.082,14.082C91.935,50.676,85.63,44.372,85.63,36.594L85.63,36.594z
+					 M83.448,36.594c0-8.982,7.282-16.264,16.265-16.264c8.982,0,16.265,7.282,16.265,16.264c0,8.982-7.282,16.265-16.265,16.265
+					C90.73,52.859,83.448,45.576,83.448,36.594L83.448,36.594z"/>
+				<path fill="none" stroke="#000000" stroke-width="0.9921" stroke-miterlimit="3.8637" d="M120.329,39.149
+					c-1.259,10.259-10.018,18.203-20.616,18.203c-10.603,0-19.37-8.014-20.624-18.278h-2.674v-4.865l2.698,0.092
+					c1.142-10.385,9.912-18.463,20.601-18.463c10.657,0,19.496,8.03,20.678,18.371h2.62v4.865L120.329,39.149L120.329,39.149z
+					 M87.132,53.264v4.75h24.813v-4.625"/>
+				<polygon fill="#FFFFFF" stroke="#000000" stroke-width="0.9921" stroke-miterlimit="3.8637" points="91.569,57.326 
+					107.819,57.326 107.819,63.264 91.569,63.264 91.569,57.326 "/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="3.8637" x1="91.444" y1="61.014" x2="107.882" y2="61.014"/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.9921" stroke-miterlimit="3.8637" points="95.507,63.326 95.507,64.951 
+					89.569,64.951 89.569,70.201 110.132,70.201 110.132,65.076 104.007,65.076 104.007,63.451 "/>
+			</g>
+		</g>
+	</svg>

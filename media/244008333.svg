@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In . SVG Version: 6.0.0 Build 78)  -->
+
+<svg  xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="199.425" height="86.345" viewBox="0 0 199.425 86.345" overflow="visible" enable-background="new 0 0 199.425 86.345"
+	 xml:space="preserve">
+	
+		<g id="Layer_1">
+			<g>
+				<path fill="none" stroke="#000000" stroke-width="0.8504" d="M115.296,27.333h18.327c9.84,0,14.173,5.512,14.173,13.34v14.32
+					c0,1.089,0.167,3.168,0.167,3.168l-2.5-0.166c0,4.696-3.808,8.504-8.504,8.504H60.3c-4.696,0-8.504-3.808-8.504-8.504
+					l-3.833-0.146c0,0,0.167-1.878,0.167-2.856v-14.32c0-7.828,5.5-13.507,14.173-13.507h18.827v-17h34.333L115.296,27.333
+					L115.296,27.333z"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5669" d="M48.296,38.857h3.042c0-4.696,3.807-8.504,8.503-8.504h76.493
+					c4.697,0,8.504,3.808,8.504,8.504h2.958"/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5669" points="83.796,30.166 83.796,13.166 112.129,13.166 
+					112.129,29.833 "/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5669" points="86.796,30.333 86.796,18.833 109.463,18.833 
+					109.463,29.833 "/>
+				<line fill="none" stroke="#000000" stroke-width="0.5669" x1="87.129" y1="24.499" x2="109.463" y2="24.499"/>
+				<polygon fill="none" stroke="#000000" stroke-width="0.5669" points="131.796,57.166 131.796,40.499 64.629,40.499 
+					64.629,57.166 131.796,57.166 "/>
+				<polygon fill="none" stroke="#000000" stroke-width="0.5669" points="73.796,55.666 73.796,41.833 66.129,41.833 66.129,55.666 
+					73.796,55.666 "/>
+				<polygon fill="none" stroke="#000000" stroke-width="0.5669" points="83.004,55.666 83.004,41.833 75.338,41.833 75.338,55.666 
+					83.004,55.666 "/>
+				<polygon fill="none" stroke="#000000" stroke-width="0.5669" points="83.004,55.666 83.004,41.833 75.338,41.833 75.338,55.666 
+					83.004,55.666 "/>
+				<polygon points="121.213,55.666 121.213,41.833 113.546,41.833 113.546,55.666 121.213,55.666 "/>
+				<polygon fill="none" stroke="#000000" stroke-width="0.5669" points="121.213,55.666 121.213,41.833 113.546,41.833 
+					113.546,55.666 121.213,55.666 "/>
+				<polygon points="129.879,55.666 129.879,41.833 122.213,41.833 122.213,55.666 129.879,55.666 "/>
+				<polygon fill="none" stroke="#000000" stroke-width="0.5669" points="129.879,55.666 129.879,41.833 122.213,41.833 
+					122.213,55.666 129.879,55.666 "/>
+				<polygon fill="none" stroke="#000000" stroke-width="0.5669" points="97.963,55.833 97.963,41.499 84.796,41.499 84.796,55.833 
+					97.963,55.833 "/>
+				<polygon fill="none" stroke="#000000" stroke-width="0.5669" points="112.004,55.833 112.004,41.499 98.838,41.499 
+					98.838,55.833 112.004,55.833 "/>
+				<line x1="69.796" y1="42.999" x2="69.796" y2="18.666"/>
+				<line fill="none" stroke="#000000" stroke-width="1.1338" x1="69.796" y1="42.999" x2="69.796" y2="18.666"/>
+				<g>
+					<text transform="matrix(1 0 0 1 66.1294 17.3325)"><tspan x="0" y="0" font-family="'Arial-Black'" font-size="12">1</tspan></text>
+				</g>
+				<line x1="105.338" y1="71.499" x2="105.338" y2="52.708"/>
+				<line fill="none" stroke="#000000" stroke-width="1.1338" x1="105.338" y1="71.499" x2="105.338" y2="52.708"/>
+				<g>
+					<text transform="matrix(1 0 0 1 101.1294 82.6655)"><tspan x="0" y="0" font-family="'Arial-Black'" font-size="12">4</tspan></text>
+				</g>
+				<polygon fill="none" stroke="#FFFFFF" points="198.925,85.54 198.925,0.5 0.5,0.5 0.5,85.54 198.925,85.54 "/>
+			</g>
+		</g>
+	</svg>

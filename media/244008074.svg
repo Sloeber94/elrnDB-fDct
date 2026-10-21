@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In . SVG Version: 6.0.0 Build 78)  -->
+
+<svg  xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="198.992" height="85.607" viewBox="0 0 198.992 85.607" overflow="visible" enable-background="new 0 0 198.992 85.607"
+	 xml:space="preserve">
+	
+		<g id="Layer_1">
+			<g>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="square" stroke-miterlimit="2" points="
+					56.183,34.184 52.884,34.083 52.884,29.784 56.183,29.784 56.183,34.184 "/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="square" stroke-miterlimit="2" points="
+					135.384,29.884 135.384,34.184 56.183,34.184 56.183,29.784 135.384,29.884 "/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="square" stroke-miterlimit="2" points="
+					135.384,29.884 138.117,29.784 138.283,34.184 135.384,34.184 135.384,29.884 "/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="square" stroke-miterlimit="2" points="
+					48.983,38.884 48.983,53.984 43.283,53.984 43.283,34.184 48.983,34.184 48.983,38.884 "/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="square" stroke-miterlimit="2" x1="142.384" y1="34.083" x2="142.484" y2="53.984"/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="square" stroke-miterlimit="2" points="
+					147.984,53.884 48.983,53.884 48.983,34.083 52.884,34.083 "/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="square" stroke-miterlimit="2" points="
+					142.583,34.083 148.083,34.083 147.984,53.884 "/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="square" stroke-miterlimit="2" points="
+					76.783,37.784 76.783,51.484 62.384,51.484 62.384,37.384 76.783,37.384 76.783,37.784 "/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="square" stroke-miterlimit="2" points="
+					105.583,37.083 105.583,51.083 85.783,51.083 85.783,37.083 105.583,37.083 "/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="square" stroke-miterlimit="2" points="
+					128.984,51.484 128.984,37.384 114.583,37.384 114.583,51.484 128.783,51.484 "/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="square" stroke-miterlimit="2" d="M48.983,38.784h7.2
+					c0.1,3.5,0,7.867,0,12.167l-7.2,0.167V38.784"/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="square" stroke-miterlimit="2" points="
+					84.283,53.984 88.783,53.884 88.783,58.284 84.283,58.184 84.283,53.984 "/>
+				<polygon fill="none" stroke="#FFFFFF" stroke-width="0.5669" points="198.709,85.323 198.709,0.284 0.283,0.284 0.283,85.323 
+					198.709,85.323 "/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="square" stroke-miterlimit="2" x1="138.283" y1="34.184" x2="142.583" y2="34.083"/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="square" stroke-miterlimit="2" points="
+					142.117,37.284 135.95,37.284 135.95,50.784 142.117,50.784 "/>
+				<polygon fill="none" stroke="#000000" stroke-width="0.8504" stroke-linecap="square" stroke-miterlimit="2" points="
+					52.95,33.95 42.95,33.95 42.95,54.117 84.617,54.117 84.617,58.284 88.783,58.284 88.783,53.884 148.117,53.884 148.117,34.284 
+					138.283,34.284 138.283,29.617 52.95,29.617 52.95,33.95 "/>
+				
+					<line fill="none" stroke="#000000" stroke-width="1.1338" stroke-linecap="square" stroke-miterlimit="2" x1="121.783" y1="39.617" x2="121.783" y2="19.45"/>
+				<g>
+					<text transform="matrix(1 0 0 1 117.9502 16.1172)"><tspan x="0" y="0" font-family="'Arial-Black'" font-size="12">1</tspan></text>
+				</g>
+				
+					<line fill="none" stroke="#000000" stroke-width="1.1338" stroke-linecap="square" stroke-miterlimit="2" x1="69.283" y1="39.617" x2="69.283" y2="19.45"/>
+				<g>
+					<text transform="matrix(1 0 0 1 65.4502 16.1172)"><tspan x="0" y="0" font-family="'Arial-Black'" font-size="12">3</tspan></text>
+				</g>
+			</g>
+		</g>
+	</svg>

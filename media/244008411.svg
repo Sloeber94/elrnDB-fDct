@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In . SVG Version: 6.0.0 Build 78)  -->
+
+<svg  xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="32.851" height="30.187" viewBox="0 0 32.851 30.187" overflow="visible" enable-background="new 0 0 32.851 30.187"
+	 xml:space="preserve">
+	
+		<g id="Layer_1">
+			<g>
+				<polygon fill="none" stroke="#000000" stroke-width="0.8504" points="28.925,11.595 32.425,11.762 32.425,29.762 0.425,29.762 
+					0.425,11.928 3.592,11.928 3.592,0.428 28.925,0.595 28.925,11.595 "/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.8504" points="3.092,7.428 0.925,7.428 0.925,11.928 "/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.8504" points="29.259,6.928 31.759,6.928 31.759,11.262 "/>
+				<line fill="none" stroke="#000000" stroke-width="0.5669" x1="3.759" y1="3.262" x2="29.092" y2="3.262"/>
+				<line fill="none" stroke="#000000" stroke-width="0.5669" x1="0.759" y1="26.428" x2="32.259" y2="26.428"/>
+				<polygon fill="none" stroke="#000000" stroke-width="0.5669" points="15.259,19.262 15.259,4.928 6.759,4.928 6.759,19.262 
+					15.259,19.262 "/>
+				<polygon fill="none" stroke="#000000" stroke-width="0.5669" points="26.509,19.262 26.509,4.928 18.009,4.928 18.009,19.262 
+					26.509,19.262 "/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5669" points="6.425,26.262 6.425,20.262 10.592,20.262 10.592,26.428 
+					"/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5669" points="14.279,26.262 14.279,20.262 18.446,20.262 
+					18.446,26.428 "/>
+				<polyline fill="none" stroke="#000000" stroke-width="0.5669" points="22.488,26.262 22.488,20.262 26.654,20.262 
+					26.654,26.428 "/>
+				<g>
+					<text transform="matrix(1 0 0 1 7.5918 16.5952)"><tspan x="0" y="0" font-family="'Arial-Black'" font-size="12">1</tspan></text>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 18.5918 16.5952)"><tspan x="0" y="0" font-family="'Arial-Black'" font-size="12">2</tspan></text>
+				</g>
+			</g>
+		</g>
+	</svg>
